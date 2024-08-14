@@ -1,8 +1,5 @@
-# React Admin Dashboard
+# React Admin Dashboard For rbclean project
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+app.rbclean.xyz is the admin dashboard for a laundry web application.  
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
 # app-rbclean
